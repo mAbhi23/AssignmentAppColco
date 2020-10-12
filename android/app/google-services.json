@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257737622526",
+    "firebase_url": "https://assignmentappcolco.firebaseio.com",
+    "project_id": "assignmentappcolco",
+    "storage_bucket": "assignmentappcolco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257737622526:android:0f0ba98e5854d6633a76af",
+        "android_client_info": {
+          "package_name": "com.colco.assignmentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257737622526-d02ludua4sr68iu0oiu6i3hnoevi19oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNMD3PMf7ed5yxixKjSON9ObGjBOv8Ki8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257737622526-d02ludua4sr68iu0oiu6i3hnoevi19oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
